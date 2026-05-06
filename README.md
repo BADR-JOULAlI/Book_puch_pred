@@ -39,7 +39,7 @@ This project contains a complete machine learning workflow:
 │       ├── history.json
 │       ├── train_config.json
 │       └── evaluation.json
-├── TensorFlow Audiobooks - Preprocessing with Comments.ipynb
+├── TensorFlow Audiobooks - Preprocessing.ipynb
 ├── prediction.ipynb
 ├── requirements.txt
 └── README.md
